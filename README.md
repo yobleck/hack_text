@@ -15,3 +15,12 @@ hack_text.run(timer=0.005, i_text="");
 also hack_text.list_of_char(); provides list of valid input characters
 
 TODO: regex to handle invalid characters
+
+## Note:
+this program uses ANSI escape codes and which must be manually enabled on Windows (and maybe mac as well)
+
+these chould help:
+
+https://superuser.com/questions/413073/windows-console-with-ansi-colors-handling
+
+https://stackoverflow.com/questions/16755142/how-to-make-win32-console-recognize-ansi-vt100-escape-sequences
