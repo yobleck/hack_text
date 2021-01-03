@@ -1,6 +1,10 @@
 # hack_text
 Watch Dogs inspired fake hacking text decoder
 
+shout out to Noah Caldwell-Gervais
+
+https://www.youtube.com/watch?v=UaI1BgNTy8k
+
 ## Usage
 ### run from terminal:
 python hack_text.py -t=0.01 test string
